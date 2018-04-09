@@ -3,3 +3,7 @@ Git is a free software
 
 Git is a distributed conttrol system
 Rit is a free
+
+Git is a distributed conttrol system
+Rit is a free
+
